@@ -7,9 +7,9 @@
 
 - 🔭 My last project [Cuci'in](https://github.com/RanggaPerkasaAS/FE-laundry | https://github.com/RanggaPerkasaAS/BE-laundry)
 
-- 🌱 Framework that I master **NodeJs, ReactJs**
-
 - 💬 Programming language that I master **JavaScript, Java, PHP**
+
+- 🌱 Framework that I master **NodeJs, ReactJs**
 
 - 📫 How to reach me **ranggaperkasa822@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🔭 My last project [Cuci'in](https://github.com/RanggaPerkasaAS/FE-laundry | https://github.com/RanggaPerkasaAS/BE-laundry)
 
-- 🌱 I’m still learning **NodeJs, ReactJs**
+- 🌱 Framework that I master **NodeJs, ReactJs**
 
 - 💬 Programming language that I master **JavaScript, Java, PHP**
 

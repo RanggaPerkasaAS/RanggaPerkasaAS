@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rangga Perkasa Aprili Sugiyanto</h1>
-<h3 align="center">Fresh graduate SMK Telkom Malang interested Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranggaperkasaas&label=Profile%20views&color=0e75b6&style=flat" alt="ranggaperkasaas" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 My last project [Cuci'in](https://github.com/RanggaPerkasaAS/FE-laundry | https://github.com/RanggaPerkasaAS/BE-laundry)
 
-- 🌱 I’m currently learning **NodeJs, ReactJs, Golang**
+- 🌱 I’m still learning **NodeJs, ReactJs**
 
-- 💬 Programming language that I master **JavaScript, Java, PHP, Golang**
+- 💬 Programming language that I master **JavaScript, Java, PHP**
 
 - 📫 How to reach me **ranggaperkasa822@gmail.com**
 
